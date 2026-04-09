@@ -43,7 +43,7 @@ python3 audit_script.py --case 06
 ```
 
 ## Results
-📈 The "Redline" Theory
+📈 The "Redline" Theory<br>
 My research found that AI models are most dangerous when they are 90% correct.
 
 The Success Point: AI can identify non-existent items.
