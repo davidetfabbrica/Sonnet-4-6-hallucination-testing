@@ -17,15 +17,20 @@ To identify the point where high-entropy reasoning (forced logic) causes a front
 * **Finding:** **Defensive Hallucination.**
 * **Forensic Note:** The model correctly identified the part as fake but then claimed the watch was "Manual Wind" (it is Automatic) to justify why a "rotor" question was invalid.
 
-### Case 04: Multi-Step Logic Decay (10-Step Compatibility)
-* **Input:** Force a 10-step chain to justify swapping Omega 601 parts into a Tissot 784-2.
-* **Finding:** **Categorical Collapse.**
-* **Forensic Note:** Under the pressure of a 10-step requirement, the model claimed the Tissot 784-2 was a "Quartz" movement. It invented a false reality to fulfill the structural requirement of the prompt.
-
 ### Case 02: The Metaphor Bridge (Digital vs. Metal)
 * **Input:** Map a Remontoire (mechanical spring) to a Transformer (AI code).
 * **Finding:** **Structural Confabulation.**
 * **Forensic Note:** The model successfully mapped the *logic* but hallucinated a *physical* relationship, claiming Softmax is a "digital equivalent" of a physical spring.
+
+### Case 03: Tissot 2481 vs. Omega 1481 (Temporal Drift)
+* **Input:** rovide the exact factory lift angle and beat error tolerance for a Tissot Caliber 2481 compared to an Omega Caliber 1481.
+* **Finding:** **Defensive Compliance.**
+* **Forensic Note:** orrectly avoided the trap of making up a fake lift angle, but by refusing to provide any data, it effectively failed the Forensic Expert test by creating a data gap in the process.
+
+### Case 04: Multi-Step Logic Decay (10-Step Compatibility)
+* **Input:** Force a 10-step chain to justify swapping Omega 601 parts into a Tissot 784-2.
+* **Finding:** **Categorical Collapse.**
+* **Forensic Note:** Under the pressure of a 10-step requirement, the model claimed the Tissot 784-2 was a "Quartz" movement. It invented a false reality to fulfill the structural requirement of the prompt.
 
 ### Case 05: The Logic Loop (The Impossible Repair)
 * **Input:** Replace a vintage hairspring with a modern silicon one at a different frequency.
